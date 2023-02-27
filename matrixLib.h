@@ -1,11 +1,11 @@
 /**
 * @file matrixLib.h
-* @description Bu projede, Bu projede, dosyadan veri okumamız, okunan veri seti üzerinde 1. Projede 
-* gerçeklediğimiz fonksiyonları kullanarak bazı istatistiksel hesaplamaları
+* @description Bu projede, Bu projede, dosyadan veri okumamız, okunan veri seti üzerinde 
+* çeşitli fonksiyonları kullanarak bazı istatistiksel hesaplamaları
 * yapmamız ve bu hesapları dosyaya yazmamız beklenmektedir.
 * @assignment Proje2
 * @date 27.12.2022
-* @author Beyza Yıldızlı beyza.yildizli@stu.fsm.edu.tr
+* @author Beyza Yıldızlı beyzayildizli10@gmail.com
 */
 
 #ifndef MATRIXLIB_h
