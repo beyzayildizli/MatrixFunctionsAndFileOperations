@@ -1,11 +1,11 @@
 /**
-* @file main
+* @file main.c
 * @description Bu projede, Bu projede, dosyadan veri okumamız, okunan veri seti üzerinde 
 * çeşitli fonksiyonları kullanarak bazı istatistiksel hesaplamaları
 * yapmamız ve bu hesapları dosyaya yazmamız beklenmektedir.
 * @assignment Proje2
 * @date 27.12.2022
-* @author Beyza Yıldızlı beyza.yildizli@stu.fsm.edu.tr
+* @author Beyza Yıldızlı beyzayildizli10@gmail.com
 */
 
 #include <stdio.h>
