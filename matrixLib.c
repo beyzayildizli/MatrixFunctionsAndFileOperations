@@ -1,6 +1,6 @@
 /**
 * @file matrixLib.c
-* @description Bu projede, Bu projede, dosyadan veri okumamız, okunan veri seti üzerinde 
+* @description Bu projede, dosyadan veri okumamız, okunan veri seti üzerinde 
 * çeşitli fonksiyonları kullanarak bazı istatistiksel hesaplamaları
 * yapmamız ve bu hesapları dosyaya yazmamız beklenmektedir.
 * @assignment Proje2
