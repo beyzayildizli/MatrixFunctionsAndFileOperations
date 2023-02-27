@@ -1,9 +1,9 @@
 /**
 * @file matrixLib.c
-* @description Bu projede, dosyadan veri okumamız, okunan veri seti üzerinde 
-* çeşitli fonksiyonları kullanarak bazı istatistiksel hesaplamaları
-* yapmamız ve bu hesapları dosyaya yazmamız beklenmektedir.
-* @assignment Proje2
+* @description In this project, we are expected to read data from the file,
+* make some statistical calculations using various functions
+* on the read data set, and write these calculations to the file.
+* @assignment MatrixFunctionsAndFileOperations
 * @date 27.12.2022
 * @author Beyza Yıldızlı beyzayildizli10@gmail.com
 */
